@@ -1,6 +1,7 @@
-# 📸 Photo Vault – Secure Cloud Media Storage App
+# 🔐 BioVault – Secure Cloud Vault for Biometrics
 
-**Photo Vault** is a secure, cloud-enabled Android application that allows users to upload, view, and manage personal photos using AWS services like Amplify, Lambda, S3, and Boto3. The project demonstrates real-world integration of mobile and serverless cloud components for building scalable and secure media applications.
+**BioVault** is a secure, cloud-based Android application designed for storing, managing, and processing biometric images such as fingerphotos. Leveraging AWS services including Amplify, Lambda, S3, and Boto3, the project showcases a practical pipeline for secure biometric data handling, privacy-preserving uploads, and serverless processing. This system is built to support compliant, scalable deployment of biometric authentication tools in real-world mobile environments.
+
 
 ---
 
