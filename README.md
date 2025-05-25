@@ -72,21 +72,9 @@
 ## 📁 Folder Structure
 
 ```
-/android-app/         ← Android source code
-/amplify/             ← Amplify backend config
-/lambda/              ← Lambda function code
+/q11.zip/                 ← Android source code
 /README.md
 ```
-
----
-
-## ✅ Example Use Case
-
-- User logs into the app via Amplify Auth
-- Selects or captures a photo and uploads it
-- Amplify stores the photo in S3
-- Lambda (optional) processes the image (e.g., resize)
-- User sees an updated gallery of their images
 
 ---
 
